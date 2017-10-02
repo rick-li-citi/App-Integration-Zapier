@@ -10,7 +10,7 @@ module.exports = {
     app: path.resolve(__dirname, "./src/main/webapp/js/app.jsx")
   },
   output: {
-    path: path.resolve(__dirname, "./target/static"),
+    path: path.resolve(__dirname, "./src/main/webapp/"),
     filename: "[name].bundle.js"
   },
   devtool: 'source-map',

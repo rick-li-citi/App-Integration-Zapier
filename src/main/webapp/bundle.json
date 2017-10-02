@@ -2,13 +2,14 @@
   "applications": [
     {
       "type": "sandbox",
-      "id": "devZapierWebHookIntegration",
-      "name": "Zapier",
-      "blurb": "Zapier Webhook Integration in Development Mode",
-      "publisher": "Symphony",
-      "url": "https://d74a790c.ngrok.io/apps/zapier/controller.html?configurationId=58598bf8e4b057438e69f517&botUserId=346621040656485&id=devZapierWebHookIntegration&context=apps/zapier",
-      "icon": "https://d74a790c.ngrok.io/apps/zapier/img/appstore-logo.png",
-      "domain": ".ngrok.io"
+      "id": "citibot",
+      "name": "citibot",
+      "blurb": "Test1111 ",
+      "publisher": "Rick Li",
+      "url": "https://local-dev.ngrok.io:8081/controller.html",
+      "icon": "https://rick-li.ngrok.io/citibot/apps/citibot/img/appstore-logo.png",
+      "domain": ".ngrok.io",
+      "backurl":  "https://rick-li.ngrok.io/citibot/apps/citibot/controller.html?configurationId=59c4c95ee4b009e9128fbb95&botUserId=346621040656545&id=citibot&context=apps/citibot"
     }
   ]
 }
